@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            <iframe src="https://www.google.com/maps/d/embed?mid=1DkG9mzg1-1prM2hnyR3e7G4ZhoM" width="640" height="480"></iframe>
         </p>
 
         <p>        
