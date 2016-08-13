@@ -8,7 +8,7 @@
                 <h2>Dorothy's House</h2>
             </hgroup>
             <p>
-                Welcome to Dorothy's House
+                Welcome to Dorothy's House !
             </p>
         </div>
     </section>
