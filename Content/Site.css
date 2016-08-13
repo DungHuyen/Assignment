@@ -254,11 +254,13 @@ section.feature {
 ol.round {
     list-style-type: none;
     padding-left: 0;
+    float:left;
 }
 
     ol.round li {
         margin: 25px 0;
         padding-left: 45px;
+        
     }
 
         ol.round li.zero {

@@ -99,6 +99,9 @@
                 </UpdateParameters>
             </asp:SqlDataSource>
         </li>
+       
+    </ol>
+    <ol class="round">
         <li class="four">
             <asp:DetailsView ID="DetailsView4" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="MaHD" DataSourceID="SqlDataSource4">
                 <Fields>
@@ -108,8 +111,6 @@
                     <asp:CommandField ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
                 </Fields>
             </asp:DetailsView>
-            
-
             <asp:SqlDataSource ID="SqlDataSource4" runat="server" ConnectionString="<%$ ConnectionStrings:quanlybanhang_dunghuyenConnectionString %>" DeleteCommand="DELETE FROM [HoaDon] WHERE [MaHD] = @MaHD" InsertCommand="INSERT INTO [HoaDon] ([MaHD], [NgayLap], [KhachHang_MaKH]) VALUES (@MaHD, @NgayLap, @KhachHang_MaKH)" SelectCommand="SELECT [MaHD], [NgayLap], [KhachHang_MaKH] FROM [HoaDon]" UpdateCommand="UPDATE [HoaDon] SET [NgayLap] = @NgayLap, [KhachHang_MaKH] = @KhachHang_MaKH WHERE [MaHD] = @MaHD">
                 <DeleteParameters>
                     <asp:Parameter Name="MaHD" Type="Int32" />
@@ -125,8 +126,6 @@
                     <asp:Parameter Name="MaHD" Type="Int32" />
                 </UpdateParameters>
             </asp:SqlDataSource>
-            
-
         </li>
         <li class="five">
             <asp:DetailsView ID="DetailsView5" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="ID" DataSourceID="SqlDataSource5">
