@@ -7,7 +7,7 @@
     </hgroup>
 
     <article>
-        <p>Dorothy’s House   gửi lời yêu thương chân thành đến tất cả các bạn – một nửa xinh đẹp của thế giới!<br />
+        <p>Dorothy’s   gửi lời yêu thương chân thành đến tất cả các bạn – một nửa xinh đẹp của thế giới!<br />
 
 Dorothy’s House  ra đời là cửa hàng chuyên kinh doanh các sản phẩm Mỹ phẩm Hàn Quốc chăm sóc da và trang điểm dành cho các cô gái, với tất cả các sản phẩm đến từ các thương hiệu xứ Kim Chi: The Faceshop, Skinfood, Etude House, Innisfree, Tony Moly, Nature Republic, Gel Lamy, Its Skin …. và các thương hiệu danh tiếng khác nữa.<br />
 
