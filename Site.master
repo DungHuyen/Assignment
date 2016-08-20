@@ -53,8 +53,8 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul>
-                                <li><a id="registerLink" runat="server" href="~/Account/Register">Register</a></li>
-                                <li><a id="loginLink" runat="server" href="~/Account/Login">Log in</a></li>
+                                <li><a id="registerLink" runat="server" href="~/Account/Register">Đăng ký</a></li>
+                                <li><a id="loginLink" runat="server" href="~/Account/Login">Đăng nhập</a></li>
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
@@ -69,9 +69,14 @@
                 </section>
                 <nav>
                     <ul id="menu">
-                        <li><a runat="server" href="~/">Home</a></li>
-                        <li><a runat="server" href="~/About">About</a></li>
-                        <li><a runat="server" href="~/Contact">Contact</a></li>
+                        <li><a runat="server" href="~/">Trang chủ</a></li>
+                        <li><a runat="server" href="~/About">Giới thiệu</a></li>
+                        <li><a id="A4" runat="server" href="~/Category">Loại sản phẩm</a></li>
+                        <li><a id="A1" runat="server" href="~/Product">Sản phẩm</a></li>
+                        <li><a id="A2" runat="server" href="~/Customer">Khách Hàng</a></li>
+                        <li><a id="A3" runat="server" href="~/Bill">Hóa Đơn</a></li>
+                        <li><a runat="server" href="~/Contact">TT Hóa Đơn</a></li>
+                        <li><a id="A5" runat="server" href="~/Billing details">Liên hệ</a></li>
                     </ul>
                 </nav>
             </div>

@@ -14,7 +14,7 @@
     </section>
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
-    <h3>We suggest the following:</h3>
+    
     <ol class="round">
         <li class="one">
             <asp:DetailsView ID="DetailsView1" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="MaLSP" DataSourceID="SqlDataSource1">
@@ -100,8 +100,8 @@
             </asp:SqlDataSource>
         </li>
        
-    </ol>
-    <ol class="round">
+    
+    
         <li class="four">
             <asp:DetailsView ID="DetailsView4" runat="server" Height="50px" Width="125px" AllowPaging="True" AutoGenerateRows="False" DataKeyNames="MaHD" DataSourceID="SqlDataSource4">
                 <Fields>
