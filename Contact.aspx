@@ -2,8 +2,8 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
-        <h2>Dorothy.</h2>
+        
+        <h2>Liên hệ</h2>
     </hgroup>
 
     <section class="contact">
